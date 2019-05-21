@@ -1,0 +1,15 @@
+BJP,北京
+SHH,上海
+GZQ,广州
+SZQ,深圳
+CDW,成都
+HZH,杭州
+WHN,武汉
+XAY,西安
+QDK,青岛
+CSQ,长沙
+NJH,南京
+XMS,厦门
+KMM,昆明
+DLT,大连
+TJP,天津
